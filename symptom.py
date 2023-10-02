@@ -6,9 +6,9 @@ from metaphor_python import Metaphor
 from bs4 import BeautifulSoup
 
 # Initialize the Metaphor AI client with your API key
-openai.api_key = "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"
+openai.api_key = "OPENAI-KEY-HERE"
 
-metaphor = Metaphor("3aef2485-8a8e-4fe7-b976-d45bbcadcf43")
+metaphor = Metaphor("METAPHOR-AI-KEY-HERE")
 
 user_input = input("Enter your symptoms: ")
 nums = input("Number of results: ")
