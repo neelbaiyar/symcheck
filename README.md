@@ -4,7 +4,7 @@ This Python script allows you to search for home remedies based on symptoms and 
 
 ## Installation
 
-To use this script, you'll need to install the required Python libraries. You can do this using pip3:
+You'll need to install the required Python libraries to use this script. You can do this using pip3:
 
 pip3 install metaphor-python
 pip3 install beautifulsoup4
@@ -62,7 +62,7 @@ python symptom.py
 
 ## Bugs
 
-I am not 100% sure about the functionality as I have ran into a message stating "You exceeded your current quota, please check your plan and billing details. - OpenAI". However, I am certain that it works, due to the fact that I was able to get the prototypical version running when I had enough credits.
+I am not 100% sure about the functionality as I have run into a message stating "You exceeded your current quota, please check your plan and billing details. - OpenAI". However, I am confident that it works, due to the fact that I was able to get the prototypical version running when I had enough credits.
 
 ## Disclaimer
 
@@ -70,12 +70,3 @@ Please be aware of the API usage limits and any associated costs for using the M
 
 ---
 
-## Comments
-
-Thank you for the opportunity to showcase my talents and I hope to hear from you soon!
-
-Sincerely,
-
-Neel Aiyar
-Phone: (650)799-3356
-Email: neelbaiyar@gmail.com
